@@ -6,7 +6,7 @@ To measure energy using Single Phase Energy Meter
 ## Procedure:
 Step 1: Make Connections as per the instructions given below:
 
-S1 of MCB - A1 of Ammeter and A2 of Ammeter - V1 of Voltmeter
+S1 of MCB - A1 of Ammeter and A2 of Ammeter - V1 of Voltmeter.
 V1 of Voltmeter - Mw of Wattmeter and Mw of Wattmeter - C of Wattmeter
 S2 of MCB - V of Wattmeter and V of Wattmeter - N1 of Energy Meter
 N2 of Energy Meter - L2 of Load and Le of Energy Meter - L1 of Load
